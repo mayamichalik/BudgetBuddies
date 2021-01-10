@@ -1,0 +1,33 @@
+.center{
+    vertical-align: center;
+	text-align:center;
+    align-content: center;  
+}
+.left{
+    vertical-align: left;
+	text-align:left; 
+}
+.size {
+    width: 100px;
+    height: 100px;
+}
+.pad {
+    padding: 4px;
+}
+.border {
+    width:800px;
+    height:600px;
+    line-height:200px;
+    border: solid 5px black;
+}
+.right{
+    vertical-align: right;
+	text-align:right; 
+}
+h1{
+font-size: 40px;
+
+}
+.btn{
+    color: #96df5e
+}
